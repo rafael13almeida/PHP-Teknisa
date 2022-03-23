@@ -3,7 +3,7 @@
 1 - O projeto php foi criado utilizando o laravel 8;
 -> No terminal rode (composer create-project laravel/laravel:^8.0 teknisa-dev-api);
 
-2 - Como banco de dados utilizamos o sqlite;
+2 - Como banco de dados utilizamos o sqlite 3;
 
 3 - O projeto foi realizado e depois testado no Postman.
 
